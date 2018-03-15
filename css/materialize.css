@@ -3,6 +3,32 @@
  * Copyright 2014-2017 Materialize
  * MIT License (https://raw.githubusercontent.com/Dogfalo/materialize/master/LICENSE)
  */
+.header-logo {
+  background: url(../images/Artboard.svg);
+  background-position: 1%;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 6vh;
+  margin-left: 24px;
+  margin-right: 48px;
+  min-width: 80vw;
+  width: 10vw;
+  margin-top: 0.75vw;
+}
+
+.smaller-header-logo {
+  background: url(../images/Artboard3.svg) center;
+  /* background-position: 20%; */
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 5vh;
+  /* margin-left: 10vw; */
+  margin-right: 30vw;
+  min-width: 80vw;
+  width: 10vw;
+  margin-top: 2vw;
+}
+
  .small-responsive-img {
   max-width: 3%;
   height: auto;
